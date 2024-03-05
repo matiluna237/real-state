@@ -1,0 +1,46 @@
+---
+import Filters from "./Filters.astro";
+import BuildingIcon from "./icons/BuildingIcon.astro";
+
+const url = Astro.url;
+console.log(url);
+console.log(url.pathname);
+const linkActivoNosotros =
+  url.pathname === "/nosotros" || url.pathname === "/nosotros/"
+    ? "font-extrabold"
+    : "font-medium";
+const linkActivoPropiedades =
+  url.pathname === "/propiedades" ||
+  url.pathname.includes("propiedad") ||
+  url.pathname === "/propiedades/"
+    ? "font-extrabold"
+    : "font-medium";
+const linkActivoContacto =
+  url.pathname === "/contacto" || url.pathname === "/contacto/"
+    ? "font-extrabold"
+    : "font-medium";
+---
+
+<header
+  class="bg-white/50 w-full flex flex-col px-4 md:px-16 pb-1 pt-2 gap-1 sticky top-0 z-50 backdrop-blur-lg"
+>
+  <div class="flex flex-row justify-center items-center gap-4">
+    <BuildingIcon class="size-6" />
+    <div class="flex flex-row gap-4">
+      <a
+        href="/propiedades"
+        class=`md:text-2xl text-gray-600 ${linkActivoPropiedades}`
+        >PROPIEDADES</a
+      >
+      <a
+        href="/nosotros"
+        class=`md:text-2xl text-gray-600 ${linkActivoNosotros}`>NOSOTROS</a
+      >
+      <a
+        href="/contacto"
+        class=`md:text-2xl text-gray-600 ${linkActivoContacto}`>CONTACTO</a
+      >
+    </div>
+  </div>
+  <Filters />
+</header>

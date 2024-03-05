@@ -1,0 +1,101 @@
+---
+import "photoswipe/style.css";
+
+import {
+  getAllProperties,
+  getPropertyById,
+} from "../../services/properties.ts";
+
+import Gallery from "../../components/Gallery.tsx";
+import SectionContainer from "../../components/SectionContainer.astro";
+import ArrowBack from "../../components/icons/ArrowBack.astro";
+
+const { id } = Astro.params;
+
+//obtener las id de cada property para saber todas las paginas estaticas que hay que generar
+export const getStaticPaths = async () => {
+  const properties = await getAllProperties();
+  return properties.map((property) => ({
+    params: { id: property.id },
+  }));
+};
+
+//obtener todos los datos de una property segun el id
+let property;
+if (id) {
+  property = getPropertyById({ id });
+}
+
+const valorPool = property?.features.pool ? "si" : "no";
+const valorGallery = property?.features.gallery ? "si" : "no";
+const valorHall = property?.features.hall ? "si" : "no";
+const valorLaundry = property?.features.laundry ? "si" : "no";
+const valorYard = property?.features.yard ? "si" : "no";
+const valorAsador = property?.features.asador ? "si" : "no";
+---
+
+<SectionContainer id="seccion informacion de la propiedad">
+  <div class="flex flex-col gap-4 justify-center items-center">
+    <div
+      class="flex flex-col md:flex-row justify-center items-center gap-1 md:gap-8 max-w-5xl"
+    >
+      <div class="flex flex-row gap-4 items-center">
+        <a href="/propiedades">
+          <ArrowBack class="size-8" />
+        </a>
+        <span class="text-xl md:text-2xl text-gray-600 font-semibold"
+          >{property?.title}</span
+        >
+      </div>
+      <div class="flex flex-row items-center">
+        <span class="m-2 px-2 text-white bg-slate-500 rounded-full"
+          >{property?.operation}</span
+        >
+        <span class="py-1 px-2 text-xl md:text-2xl text-green-600 font-bold"
+          >USD</span
+        >
+        <span class="py-1 text-xl md:text-2xl text-green-600 font-bold"
+          >{property?.price}</span
+        >
+      </div>
+    </div>
+    <div class="flex flex-col md:flex-row gap-10">
+      <Gallery
+        client:load
+        length={property?.images.length}
+        property={property}
+      />
+      <div class="flex flex-col justify bg-slate-200 rounded-lg p-5 md:p-10">
+        <div class="flex flex-col gap-2 mb-4">
+          {
+            property?.type != "terreno" && (
+              <>
+                <h3 class="text-xl font-semibold">MEDIDAS</h3>
+                <span>Frente: {property?.features.measures.front}</span>
+                <span>Ancho: {property?.features.measures.width}</span>
+                <h3 class="text-xl font-semibold mt-4">CARACTERISTICAS</h3>
+                <span>Habitaciones: {property?.features.bedrooms}</span>
+                <span>Baños: {property?.features.bathrooms}</span>
+                <span>Galería: {valorGallery}</span>
+                <span>Hall: {valorHall}</span>
+                <span>Lavadero: {valorLaundry}</span>
+                <span>Piscina: {valorPool}</span>
+                <span>Patio trasero: {valorYard}</span>
+                <span>Asador: {valorAsador}</span>
+              </>
+            )
+          }
+        </div>
+        {
+          property?.type === "terreno" && (
+            <div class="flex flex-col gap-2">
+              <h3 class="text-xl font-semibold">MEDIDAS</h3>
+              <span>Frente: {property?.features.measures.front}</span>
+              <span>Ancho: {property?.features.measures.width}</span>
+            </div>
+          )
+        }
+      </div>
+    </div>
+  </div>
+</SectionContainer>

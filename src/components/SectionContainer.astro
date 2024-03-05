@@ -1,0 +1,15 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+interface Props {
+  id: string;
+}
+
+const { id } = Astro.props;
+---
+
+<Layout title="real-state">
+  <section id={id} class="px-5 py-4 md:px-8 flex-1">
+    <slot />
+  </section>
+</Layout>

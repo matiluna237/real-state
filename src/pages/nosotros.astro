@@ -1,0 +1,27 @@
+---
+import SectionContainer from "../components/SectionContainer.astro";
+import SectionTitle from "../components/SectionTitle.astro";
+---
+
+<SectionContainer id="nosotros">
+  <SectionTitle title="NOSOTROS" />
+  <div class="flex flex-col md:flex-row gap-4">
+    <picture class="rounded overflow-hidden">
+      <img src="/nosotros.webp" class="w-full" />
+    </picture>
+    <div class="mx-auto max-w-3xl bg-sky-100 rounded-lg p-5">
+      <p class="text-xl">
+        Nos posicionarnos como líderes en el mercado inmobiliario local,
+        ofreciendo un servicio integral y de calidad tanto en la venta como en
+        el alquiler de propiedades.
+      </p>
+      <br />
+      <p class="text-xl">
+        Nuestro objetivo es construir relaciones sólidas con nuestros clientes,
+        basadas en la confianza, la transparencia y la excelencia en el
+        servicio, consolidandonos como la opción preferida en el mercado
+        inmobiliario.
+      </p>
+    </div>
+  </div>
+</SectionContainer>

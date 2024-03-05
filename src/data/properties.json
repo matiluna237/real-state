@@ -1,0 +1,594 @@
+[
+    {
+        "id": "1",
+        "title": "CASA CON COCHERAS SOBRE CALLE LATAPIE, BARRIO CABILDO",
+        "type": "casa",
+        "description": "Casa ubicada en el centro de Santiago del Estero",
+        "thumbnail": "/1/casa1.webp",
+        "images": [
+            "/1/casa1.webp",
+            "/1/casa2.webp",
+            "/1/casa3.webp",
+            "/1/casa4.webp",
+            "/1/casa5.webp",
+            "/1/casa6.webp"
+        ],
+        "located": {
+            "province": "santiago del estero",
+            "locality": "capital",
+            "district": "cabildo"
+        },
+        "operation": "alquiler",
+        "status": "disponible",
+        "price": 300,
+        "features": {
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "hall": true,
+            "gallery": true,
+            "laundry": true,
+            "asador": false,
+            "pool": false,
+            "yard": true,
+            "measures": {
+                "front": 0,
+                "width": 0
+            }
+        }
+    },
+    {
+        "id": "2",
+        "title": "TERRENO EN 24 DE SEPTIEMBRE ENTRE Av. LIBERTADOR Y BELGRANO ZONA CENTRO",
+        "type": "terreno",
+        "description": "terreno ubicado a metros de calle Independencia y Solis",
+        "thumbnail": "/2/terreno1.webp",
+        "images": [
+          "/2/terreno1.webp",
+          "/2/terreno2.webp",
+          "/2/terreno3.webp",
+          "/2/terreno4.webp",
+          "/2/terreno5.webp",
+          "/2/terreno6.webp"
+        ],
+        "located": {
+            "province": "santiago del estero",
+            "locality": "capital",
+            "district": "centro"
+        },
+        "operation": "venta",
+        "status": "vendido",
+        "price": 20000,
+        "features": {
+            "bedrooms": 0,
+            "bathrooms": 0,
+            "hall": false,
+            "gallery": false,
+            "laundry": false,
+            "asador": false,
+            "pool": false,
+            "yard": false,
+            "measures": {
+                "front": 20,
+                "width": 35
+            }
+        }
+    },
+    {
+    "id": "3",
+    "title": "MODERNO DEPARTAMENTO AMOBLADO, LISTO PARA MUDARSE",
+    "type": "departamento",
+    "description": "Moderno departamento completamente amoblado, listo para mudarse.",
+    "thumbnail": "/3/departamento1.webp",
+    "images": [
+      "/3/departamento1.webp",
+      "/3/departamento2.webp",
+      "/3/departamento3.webp",
+      "/3/departamento4.webp",
+      "/3/departamento5.webp",
+      "/3/departamento6.webp"
+    ],
+    "located": {
+      "province": "santiago del estero",
+      "locality": "capital",
+      "district": "centro"
+    },
+    "operation": "alquiler",
+    "status": "disponible",
+    "price": 500,
+    "features": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "hall": false,
+      "gallery": false,
+      "laundry": true,
+      "asador": false,
+      "pool": false,
+      "yard": false,
+      "measures": {
+        "front": 0,
+        "width": 0
+      }
+    }
+  },
+  {
+    "id": "4",
+    "title": "HERMOSA CASA EN BARRIO CABILDO, IDEAL PARA LA TRANQUILADAD Y EL DESCANSO",
+    "type": "casa",
+    "description": "Hermosa casa en un entorno natural, ideal para la tranquilidad y el descanso.",
+    "thumbnail": "/4/casa1.webp",
+    "images": [
+      "/4/casa1.webp",
+      "/4/casa2.webp",
+      "/4/casa3.webp",
+      "/4/casa4.webp",
+      "/4/casa5.webp",
+      "/4/casa6.webp"
+    ],
+    "located": {
+      "province": "santiago del estero",
+      "locality": "capital",
+      "district": "cabildo"
+    },
+    "operation": "alquiler",
+    "status": "disponible",
+    "price": 250,
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "hall": true,
+      "gallery": true,
+      "laundry": true,
+      "asador": false,
+      "pool": false,
+      "yard": true,
+      "measures": {
+        "front": 10,
+        "width": 20
+      }
+    }
+  },
+  {
+    "id": "5",
+    "title": "CASA CON PISCINA EN LA BANDA, PERFECTA PARA DISFRUTAR EN FAMILIA",
+    "type": "casa",
+    "description": "Amplia casa con piscina, perfecta para disfrutar en familia.",
+    "thumbnail": "/5/casa1.webp",
+    "images": [
+      "/5/casa1.webp",
+      "/5/casa2.webp",
+      "/5/casa3.webp",
+      "/5/casa4.webp",
+      "/5/casa5.webp",
+      "/5/casa6.webp"
+    ],
+    "located": {
+      "province": "santiago del estero",
+      "locality": "la banda",
+      "district": "santa clara"
+    },
+    "operation": "venta",
+    "status": "disponible",
+    "price": 350000,
+    "features": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "hall": true,
+      "gallery": true,
+      "laundry": true,
+      "asador": true,
+      "pool": true,
+      "yard": true,
+      "measures": {
+        "front": 15,
+        "width": 30
+      }
+    }
+  },
+  {
+    "id": "6",
+    "title": "ELEGANTE DEPARTAMENTO EJECUTIVO CON TODAS LAS COMODIDADES. UBICADO EN EL CENTRO",
+    "type": "departamento",
+    "description": "Elegante departamento ejecutivo con todas las comodidades para vivir con estilo.",
+    "thumbnail": "/6/departamento1.webp",
+    "images": [
+      "/6/departamento1.webp",
+      "/6/departamento2.webp",
+      "/6/departamento3.webp",
+      "/6/departamento4.webp",
+      "/6/departamento5.webp",
+      "/6/departamento6.webp"
+    ],
+    "located": {
+      "province": "santiago del estero",
+      "locality": "capital",
+      "district": "centro"
+    },
+    "operation": "alquiler",
+    "status": "disponible",
+    "price": 800,
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "hall": false,
+      "gallery": true,
+      "laundry": true,
+      "asador": false,
+      "pool": false,
+      "yard": false,
+      "measures": {
+        "front": 0,
+        "width": 0
+      }
+    }
+  },
+  {
+    "id": "7",
+    "title": "TERRENO EN DESARROLLO UBICADO EN LA BANDA, EXCELENTE OPORTUNIDAD DE INVERSION",
+    "type": "terreno",
+    "description": "Terreno en zona de desarrollo urbanístico, excelente inversión para el futuro.",
+    "thumbnail": "/7/terreno1.webp",
+    "images": [
+      "/7/terreno1.webp",
+      "/7/terreno2.webp",
+      "/7/terreno3.webp",
+      "/7/terreno4.webp",
+      "/7/terreno5.webp",
+      "/7/terreno6.webp"
+    ],
+    "located": {
+      "province": "santiago del estero",
+      "locality": "la banda",
+      "district": "san antonio"
+    },
+    "operation": "venta",
+    "status": "disponible",
+    "price": 60000,
+    "features": {
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "hall": false,
+      "gallery": false,
+      "laundry": false,
+      "asador": false,
+      "pool": false,
+      "yard": true,
+      "measures": {
+        "front": 40,
+        "width": 60
+      }
+    }
+  },
+  {
+    "id": "8",
+    "title": "AMPLIO DEPARTAMENTO AMOBLADO EN BARRIO BELGRANO, 2 HABITACIONES. ",
+    "type": "departamento",
+    "description": "amplio departamento amoblado 2 habitacionbes. Barrio belgrano.",
+    "thumbnail": "/8/departamento1.webp",
+    "images": [
+      "/8/departamento1.webp",
+      "/8/departamento2.webp",
+      "/8/departamento3.webp",
+      "/8/departamento4.webp",
+      "/8/departamento5.webp",
+      "/8/departamento6.webp"
+    ],
+    "located": {
+      "province": "santiago del estero",
+      "locality": "capital",
+      "district": "belgrano"
+    },
+    "operation": "alquiler",
+    "status": "disponible",
+    "price": 120000,
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "hall": false,
+      "gallery": false,
+      "laundry": true,
+      "asador": false,
+      "pool": false,
+      "yard": false,
+      "measures": {
+        "front": 0,
+        "width": 0
+      }
+    }
+  },
+  {
+    "id": "9",
+    "title": "AMPLIO CASA EN BARRIO CENTRO, 3 HABITACIONES. ",
+    "type": "casa",
+    "description": "amplia casa 3 habitacionbes. Barrio centro.",
+    "thumbnail": "/9/casa1.webp",
+    "images": [
+      "/9/casa1.webp",
+      "/9/casa2.webp",
+      "/9/casa3.webp",
+      "/9/casa4.webp",
+      "/9/casa5.webp",
+      "/9/casa6.webp"
+    ],
+    "located": {
+      "province": "santiago del estero",
+      "locality": "capital",
+      "district": "centro"
+    },
+    "operation": "alquiler",
+    "status": "disponible",
+    "price": 500,
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "hall": false,
+      "gallery": false,
+      "laundry": true,
+      "asador": false,
+      "pool": false,
+      "yard": false,
+      "measures": {
+        "front": 20,
+        "width": 30
+      }
+    }
+  },
+  {
+    "id": "10",
+    "title": "DEPARTAMENTO 1 HABITACION. EN BARRIO CABILDO",
+    "type": "departamento",
+    "description": "departamento 2 habitacionbes. En Barrio cabildo.",
+    "thumbnail": "/10/departamento1.webp",
+    "images": [
+      "/10/departamento1.webp",
+      "/10/departamento2.webp",
+      "/10/departamento3.webp",
+      "/10/departamento4.webp",
+      "/10/departamento5.webp",
+      "/10/departamento6.webp"
+    ],
+    "located": {
+      "province": "santiago del estero",
+      "locality": "capital",
+      "district": "cabildo"
+    },
+    "operation": "alquiler",
+    "status": "disponible",
+    "price": 250,
+    "features": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "hall": false,
+      "gallery": false,
+      "laundry": true,
+      "asador": false,
+      "pool": false,
+      "yard": false,
+      "measures": {
+        "front": 0,
+        "width": 0
+      }
+    }
+  },
+  {
+    "id": "11",
+    "title": "DEPARTAMENTO EN BARRIO CENTRO, A MTS DE PLAZA LIBERTAD",
+    "type": "departamento",
+    "description": "departamento en barrio centro. A mts de plaza libertad",
+    "thumbnail": "/11/departamento1.webp",
+    "images": [
+      "/11/departamento1.webp",
+      "/11/departamento2.webp",
+      "/11/departamento3.webp",
+      "/11/departamento4.webp",
+      "/11/departamento5.webp",
+      "/11/departamento6.webp"
+    ],
+    "located": {
+      "province": "santiago del estero",
+      "locality": "capital",
+      "district": "centro"
+    },
+    "operation": "venta",
+    "status": "disponible",
+    "price": 80000,
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "hall": false,
+      "gallery": false,
+      "laundry": true,
+      "asador": false,
+      "pool": false,
+      "yard": false,
+      "measures": {
+        "front": 0,
+        "width": 0
+      }
+    }
+  },
+  {
+    "id": "12",
+    "title": "CASA EN BARRIO CENTRO CON 4 HABITACIONES,",
+    "type": "casa",
+    "description": "Casa en barrio centro con 4 habitaciones ",
+    "thumbnail": "/12/casa1.webp",
+    "images": [
+      "/12/casa1.webp",
+      "/12/casa2.webp",
+      "/12/casa3.webp",
+      "/12/casa4.webp",
+      "/12/casa5.webp",
+      "/12/casa6.webp"
+    ],
+    "located": {
+      "province": "santiago del estero",
+      "locality": "capital",
+      "district": "centro"
+    },
+    "operation": "venta",
+    "status": "disponible",
+    "price": 160000,
+    "features": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "hall": true,
+      "gallery": true,
+      "laundry": true,
+      "asador": true,
+      "pool": false,
+      "yard": true,
+      "measures": {
+        "front": 20,
+        "width": 40
+      }
+    }
+  },
+  {
+    "id": "13",
+    "title": "CASA FAMILIAR EN BARRIO NUEVA CORDOBA",
+    "type": "casa",
+    "description": "Casa familiar en barrio centro",
+    "thumbnail": "/13/casa1.webp",
+    "images": [
+      "/13/casa1.webp",
+      "/13/casa2.webp",
+      "/13/casa3.webp",
+      "/13/casa4.webp",
+      "/13/casa5.webp",
+      "/13/casa6.webp"
+    ],
+    "located": {
+      "province": "cordoba",
+      "locality": "capital",
+      "district": "nueva cordoba"
+    },
+    "operation": "venta",
+    "status": "disponible",
+    "price": 100000,
+    "features": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "hall": true,
+      "gallery": true,
+      "laundry": true,
+      "asador": true,
+      "pool": false,
+      "yard": true,
+      "measures": {
+        "front": 30,
+        "width": 50
+      }
+    }
+  },
+  {
+    "id": "14",
+    "title": "CASA EN BARRIO ALBERDI",
+    "type": "casa",
+    "description": "Casa en barrio alberdi",
+    "thumbnail": "/14/casa1.webp",
+    "images": [
+      "/14/casa1.webp",
+      "/14/casa2.webp",
+      "/14/casa3.webp",
+      "/14/casa4.webp",
+      "/14/casa5.webp",
+      "/14/casa6.webp"
+    ],
+    "located": {
+      "province": "cordoba",
+      "locality": "capital",
+      "district": "alberdi"
+    },
+    "operation": "venta",
+    "status": "disponible",
+    "price": 300000,
+    "features": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "hall": true,
+      "gallery": true,
+      "laundry": true,
+      "asador": true,
+      "pool": true,
+      "yard": true,
+      "measures": {
+        "front": 30,
+        "width": 60
+      }
+    }
+  },
+  {
+    "id": "15",
+    "title": "DEPARTAMENTO EN BARRIO ALBERDI",
+    "type": "departamento",
+    "description": "Departamento en barrio alberdi",
+    "thumbnail": "/15/departamento1.webp",
+    "images": [
+      "/15/departamento1.webp",
+      "/15/departamento2.webp",
+      "/15/departamento3.webp",
+      "/15/departamento4.webp",
+      "/15/departamento5.webp",
+      "/15/departamento6.webp"
+    ],
+    "located": {
+      "province": "cordoba",
+      "locality": "capital",
+      "district": "alberdi"
+    },
+    "operation": "venta",
+    "status": "disponible",
+    "price": 300000,
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "hall": true,
+      "gallery": false,
+      "laundry": true,
+      "asador": false,
+      "pool": false,
+      "yard": false,
+      "measures": {
+        "front": 0,
+        "width": 0
+      }
+    }
+  },
+    {
+    "id": "16",
+    "title": "DEPARTAMENTO EN NUEVA CORDOBA",
+    "type": "departamento",
+    "description": "Departamento en nueva cordoba",
+    "thumbnail": "/16/departamento1.webp",
+    "images": [
+      "/16/departamento1.webp",
+      "/16/departamento2.webp",
+      "/16/departamento3.webp",
+      "/16/departamento4.webp",
+      "/16/departamento5.webp",
+      "/16/departamento6.webp"
+    ],
+    "located": {
+      "province": "cordoba",
+      "locality": "capital",
+      "district": "nueva cordoba"
+    },
+    "operation": "venta",
+    "status": "disponible",
+    "price": 250000,
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "hall": true,
+      "gallery": false,
+      "laundry": true,
+      "asador": false,
+      "pool": false,
+      "yard": false,
+      "measures": {
+        "front": 0,
+        "width": 0
+      }
+    }
+  }
+]

@@ -1,0 +1,40 @@
+---
+import SectionContainer from "../components/SectionContainer.astro";
+import SectionTitle from "../components/SectionTitle.astro";
+import EmailIcon from "../components/icons/EmailIcon.astro";
+import PhoneIcon from "../components/icons/PhoneIcon.astro";
+import UbicacionIcon from "../components/icons/UbicacionIcon.astro";
+---
+
+<SectionContainer id="contacto">
+  <SectionTitle title="CONTACTO" />
+  <div class="flex flex-row justify-center max-w-2xl mx-auto mb-4"></div>
+  <div class="flex flex-col md:flex-row gap-8 justify-center">
+    <picture class="rounded overflow-hidden">
+      <img src="/contactpage2.webp" class="h-full w-full" />
+    </picture>
+
+    <div class="flex flex-col justify-center gap-8">
+      <p class="text-xl text-balance">
+        Si estas interesado en cualquiera de nuestras ofertas no dudes en
+        ponerte en contacto con nosotros a traves de cualquiera de nuestros
+        medios
+      </p>
+
+      <ul class="flex flex-col gap-3 justify-center">
+        <li class="flex flex-row gap-4">
+          <EmailIcon class="size-6" />
+          <span>info@realstate.com</span>
+        </li>
+        <li class="flex flex-row gap-4">
+          <PhoneIcon class="size-6" />
+          <span>1800500363</span>
+        </li>
+        <li class="flex flex-row gap-4">
+          <UbicacionIcon class="size-6" />
+          <span>Av.Belgrano 1850 - Santiago del Estero, Argentina</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+</SectionContainer>

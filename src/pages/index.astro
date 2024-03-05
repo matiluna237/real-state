@@ -1,0 +1,10 @@
+---
+import { ComponentePropiedades } from "../components/ComponentePropiedades";
+import SectionContainer from "../components/SectionContainer.astro";
+import SectionTitle from "../components/SectionTitle.astro";
+---
+
+<SectionContainer id="index">
+  <SectionTitle title="PROPIEDADES" />
+  <ComponentePropiedades client:load />
+</SectionContainer>

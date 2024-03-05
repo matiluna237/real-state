@@ -1,0 +1,12 @@
+---
+import { DropdownFiltros } from "./DropdownsFiltros.tsx";
+
+const url = Astro.url;
+console.log(url);
+---
+
+{
+  (url.pathname === "/propiedades" ||
+    url.pathname === "/propiedades/" ||
+    url.pathname === "/") && <DropdownFiltros client:load />
+}
