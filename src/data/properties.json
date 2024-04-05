@@ -4,14 +4,14 @@
         "title": "CASA CON COCHERAS SOBRE CALLE LATAPIE, BARRIO CABILDO",
         "type": "casa",
         "description": "Casa ubicada en el centro de Santiago del Estero",
-        "thumbnail": "/1/casa1.webp",
+        "thumbnail": "https://img.freepik.com/fotos-premium/casa-australiana-moderna-garaje_224530-514.jpg?w=740",
         "images": [
-            "/1/casa1.webp",
-            "/1/casa2.webp",
-            "/1/casa3.webp",
-            "/1/casa4.webp",
-            "/1/casa5.webp",
-            "/1/casa6.webp"
+            "https://img.freepik.com/fotos-premium/casa-australiana-moderna-garaje_224530-514.jpg?w=740",
+            "https://img.freepik.com/foto-gratis/acogedora-sala-estar-apartamento-moderno_181624-58445.jpg?w=740",
+            "https://img.freepik.com/foto-gratis/bodegon-bar-elegante_23-2147821312.jpg?w=740",
+            "https://img.freepik.com/foto-gratis/acogedora-sala-estar-apartamento-moderno_181624-58445.jpg?w=740",
+            "https://img.freepik.com/foto-gratis/bodegon-bar-elegante_23-2147821312.jpg?w=740",
+            "https://img.freepik.com/foto-gratis/acogedora-sala-estar-apartamento-moderno_181624-58445.jpg?w=740"
         ],
         "located": {
             "province": "santiago del estero",
@@ -41,14 +41,14 @@
         "title": "TERRENO EN 24 DE SEPTIEMBRE ENTRE Av. LIBERTADOR Y BELGRANO ZONA CENTRO",
         "type": "terreno",
         "description": "terreno ubicado a metros de calle Independencia y Solis",
-        "thumbnail": "/2/terreno1.webp",
+        "thumbnail": "https://img.freepik.com/foto-gratis/toma-aerea-tierras-cultivo-cielo-despejado-region-eifel-alemania_181624-26567.jpg?w=740",
         "images": [
-          "/2/terreno1.webp",
-          "/2/terreno2.webp",
-          "/2/terreno3.webp",
-          "/2/terreno4.webp",
-          "/2/terreno5.webp",
-          "/2/terreno6.webp"
+          "https://img.freepik.com/foto-gratis/toma-aerea-tierras-cultivo-cielo-despejado-region-eifel-alemania_181624-26567.jpg?w=740",
+          "https://img.freepik.com/foto-gratis/vista-aerea-hermoso-paisaje-campestre_181624-49667.jpg?w=740",
+          "https://img.freepik.com/foto-gratis/toma-aerea-tierras-cultivo-cielo-despejado-region-eifel-alemania_181624-26567.jpg?w=740",
+          "https://img.freepik.com/foto-gratis/vista-aerea-hermoso-paisaje-campestre_181624-49667.jpg?w=740",
+          "https://img.freepik.com/foto-gratis/toma-aerea-tierras-cultivo-cielo-despejado-region-eifel-alemania_181624-26567.jpg?w=740",
+          "https://img.freepik.com/foto-gratis/vista-aerea-hermoso-paisaje-campestre_181624-49667.jpg?w=740"
         ],
         "located": {
             "province": "santiago del estero",
@@ -78,14 +78,14 @@
     "title": "MODERNO DEPARTAMENTO AMOBLADO, LISTO PARA MUDARSE",
     "type": "departamento",
     "description": "Moderno departamento completamente amoblado, listo para mudarse.",
-    "thumbnail": "/3/departamento1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/acogedora-sala-estar-apartamento-moderno_181624-58445.jpg?w=740",
     "images": [
-      "/3/departamento1.webp",
-      "/3/departamento2.webp",
-      "/3/departamento3.webp",
-      "/3/departamento4.webp",
-      "/3/departamento5.webp",
-      "/3/departamento6.webp"
+      "https://img.freepik.com/foto-gratis/acogedora-sala-estar-apartamento-moderno_181624-58445.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/sala-estar-desordenada-alto-angulo-ropa_23-2149363770.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/acogedora-sala-estar-apartamento-moderno_181624-58445.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/sala-estar-desordenada-alto-angulo-ropa_23-2149363770.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/acogedora-sala-estar-apartamento-moderno_181624-58445.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/sala-estar-desordenada-alto-angulo-ropa_23-2149363770.jpg?w=740"
     ],
     "located": {
       "province": "santiago del estero",
@@ -115,14 +115,14 @@
     "title": "HERMOSA CASA EN BARRIO CABILDO, IDEAL PARA LA TRANQUILADAD Y EL DESCANSO",
     "type": "casa",
     "description": "Hermosa casa en un entorno natural, ideal para la tranquilidad y el descanso.",
-    "thumbnail": "/4/casa1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/casa-aislada-campo_1303-23773.jpg?w=740",
     "images": [
-      "/4/casa1.webp",
-      "/4/casa2.webp",
-      "/4/casa3.webp",
-      "/4/casa4.webp",
-      "/4/casa5.webp",
-      "/4/casa6.webp"
+      "https://img.freepik.com/foto-gratis/casa-aislada-campo_1303-23773.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/elegante-sala-estar-escandinava-muebles-sofa-menta-diseno-que-burlan-plantas-mapa-cartel-eleg_1258-152155.jpg?w=996",
+      "https://img.freepik.com/foto-gratis/hermosa-vista-lago-azul-capturado-interior-villa_181624-10734.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/elegante-sala-estar-escandinava-muebles-sofa-menta-diseno-que-burlan-plantas-mapa-cartel-eleg_1258-152155.jpg?w=996",
+      "https://img.freepik.com/foto-gratis/hermosa-vista-lago-azul-capturado-interior-villa_181624-10734.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/elegante-sala-estar-escandinava-muebles-sofa-menta-diseno-que-burlan-plantas-mapa-cartel-eleg_1258-152155.jpg?w=996"
     ],
     "located": {
       "province": "santiago del estero",
@@ -152,14 +152,14 @@
     "title": "CASA CON PISCINA EN LA BANDA, PERFECTA PARA DISFRUTAR EN FAMILIA",
     "type": "casa",
     "description": "Amplia casa con piscina, perfecta para disfrutar en familia.",
-    "thumbnail": "/5/casa1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/puerta-entrada-casa_181624-8916.jpg?w=740",
     "images": [
-      "/5/casa1.webp",
-      "/5/casa2.webp",
-      "/5/casa3.webp",
-      "/5/casa4.webp",
-      "/5/casa5.webp",
-      "/5/casa6.webp"
+      "https://img.freepik.com/foto-gratis/puerta-entrada-casa_181624-8916.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/retrato-hermosa-mujer-asiatica-joven-sonrisa-feliz-relajarse-alrededor-piscina-al-aire-libre-hotel-resort_74190-10159.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/turista-bastante-femenina-bebiendo-cocteles-cafeteria-complejo-manana_197531-20918.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/retrato-hermosa-mujer-asiatica-joven-sonrisa-feliz-relajarse-alrededor-piscina-al-aire-libre-hotel-resort_74190-10159.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/turista-bastante-femenina-bebiendo-cocteles-cafeteria-complejo-manana_197531-20918.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/retrato-hermosa-mujer-asiatica-joven-sonrisa-feliz-relajarse-alrededor-piscina-al-aire-libre-hotel-resort_74190-10159.jpg?w=740"
     ],
     "located": {
       "province": "santiago del estero",
@@ -189,14 +189,14 @@
     "title": "ELEGANTE DEPARTAMENTO EJECUTIVO CON TODAS LAS COMODIDADES. UBICADO EN EL CENTRO",
     "type": "departamento",
     "description": "Elegante departamento ejecutivo con todas las comodidades para vivir con estilo.",
-    "thumbnail": "/6/departamento1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/ai-generado-entrada-estilo-moderno_23-2150692193.jpg?w=360",
     "images": [
-      "/6/departamento1.webp",
-      "/6/departamento2.webp",
-      "/6/departamento3.webp",
-      "/6/departamento4.webp",
-      "/6/departamento5.webp",
-      "/6/departamento6.webp"
+      "https://img.freepik.com/foto-gratis/ai-generado-entrada-estilo-moderno_23-2150692193.jpg?w=360",
+      "https://img.freepik.com/foto-gratis/mujer-negocios-joven-que-habla-telefono-afuera_23-2148053659.jpg?w=360",
+      "https://img.freepik.com/foto-gratis/diseno-interiores-habitaciones_23-2148899443.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/mujer-negocios-joven-que-habla-telefono-afuera_23-2148053659.jpg?w=360",
+      "https://img.freepik.com/foto-gratis/diseno-interiores-habitaciones_23-2148899443.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/mujer-negocios-joven-que-habla-telefono-afuera_23-2148053659.jpg?w=360"
     ],
     "located": {
       "province": "santiago del estero",
@@ -226,14 +226,14 @@
     "title": "TERRENO EN DESARROLLO UBICADO EN LA BANDA, EXCELENTE OPORTUNIDAD DE INVERSION",
     "type": "terreno",
     "description": "Terreno en zona de desarrollo urbanístico, excelente inversión para el futuro.",
-    "thumbnail": "/7/terreno1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/vista-terreno-desarrollo-inmobiliario-empresarial_23-2149916736.jpg?w=740",
     "images": [
-      "/7/terreno1.webp",
-      "/7/terreno2.webp",
-      "/7/terreno3.webp",
-      "/7/terreno4.webp",
-      "/7/terreno5.webp",
-      "/7/terreno6.webp"
+      "https://img.freepik.com/foto-gratis/vista-terreno-desarrollo-inmobiliario-empresarial_23-2149916736.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/luz-sol-tierra-escenica-tiempo-soleado_1127-2333.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/hermosa-foto-paisaje-verde-cielo-azul-claro_181624-30368.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/luz-sol-tierra-escenica-tiempo-soleado_1127-2333.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/hermosa-foto-paisaje-verde-cielo-azul-claro_181624-30368.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/luz-sol-tierra-escenica-tiempo-soleado_1127-2333.jpg?w=740"
     ],
     "located": {
       "province": "santiago del estero",
@@ -263,14 +263,14 @@
     "title": "AMPLIO DEPARTAMENTO AMOBLADO EN BARRIO BELGRANO, 2 HABITACIONES. ",
     "type": "departamento",
     "description": "amplio departamento amoblado 2 habitacionbes. Barrio belgrano.",
-    "thumbnail": "/8/departamento1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/hermoso-diseno-interiores-muebles_23-2149610753.jpg?w=740",
     "images": [
-      "/8/departamento1.webp",
-      "/8/departamento2.webp",
-      "/8/departamento3.webp",
-      "/8/departamento4.webp",
-      "/8/departamento5.webp",
-      "/8/departamento6.webp"
+      "https://img.freepik.com/foto-gratis/hermoso-diseno-interiores-muebles_23-2149610753.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/sala-estar-apartamento_1150-11123.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/hermoso-diseno-interiores-muebles_23-2149610753.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/sala-estar-nadie-ella_482257-55.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/hermoso-diseno-interiores-muebles_23-2149610753.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/sala-estar-apartamento_1150-11123.jpg?w=740"
     ],
     "located": {
       "province": "santiago del estero",
@@ -297,17 +297,17 @@
   },
   {
     "id": "9",
-    "title": "AMPLIO CASA EN BARRIO CENTRO, 3 HABITACIONES. ",
+    "title": "AMPLIA CASA EN BARRIO CENTRO, 3 HABITACIONES. ",
     "type": "casa",
     "description": "amplia casa 3 habitacionbes. Barrio centro.",
-    "thumbnail": "/9/casa1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/interior-cocina-moderna-colores-brillantes_181624-61502.jpg?w=740",
     "images": [
-      "/9/casa1.webp",
-      "/9/casa2.webp",
-      "/9/casa3.webp",
-      "/9/casa4.webp",
-      "/9/casa5.webp",
-      "/9/casa6.webp"
+      "https://img.freepik.com/foto-gratis/interior-cocina-moderna-colores-brillantes_181624-61502.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/hombre-negocios-hispano-mediana-edad_23-2151020285.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/diseno-interiores-habitaciones_23-2148899435.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/espacio-interior-decorado-estilo-boho_23-2150771557.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/diseno-interiores-habitaciones_23-2148899435.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/hombre-negocios-hispano-mediana-edad_23-2151020285.jpg?w=740"
     ],
     "located": {
       "province": "santiago del estero",
@@ -337,14 +337,14 @@
     "title": "DEPARTAMENTO 1 HABITACION. EN BARRIO CABILDO",
     "type": "departamento",
     "description": "departamento 2 habitacionbes. En Barrio cabildo.",
-    "thumbnail": "/10/departamento1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/hermosa-sala-estar-interior-moderno_181624-57817.jpg?w=740",
     "images": [
-      "/10/departamento1.webp",
-      "/10/departamento2.webp",
-      "/10/departamento3.webp",
-      "/10/departamento4.webp",
-      "/10/departamento5.webp",
-      "/10/departamento6.webp"
+      "https://img.freepik.com/foto-gratis/hermosa-sala-estar-interior-moderno_181624-57817.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/excited-colegas-trhowing-documentos_23-2147668867.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/acogedora-sala-estar-apartamento-moderno_181624-58445.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/hermoso-diseno-interiores-muebles_23-2149610753.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/acogedora-sala-estar-apartamento-moderno_181624-58445.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/excited-colegas-trhowing-documentos_23-2147668867.jpg?w=740"
     ],
     "located": {
       "province": "santiago del estero",
@@ -374,14 +374,14 @@
     "title": "DEPARTAMENTO EN BARRIO CENTRO, A MTS DE PLAZA LIBERTAD",
     "type": "departamento",
     "description": "departamento en barrio centro. A mts de plaza libertad",
-    "thumbnail": "/11/departamento1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/sala-estar-nadie-ella_482257-55.jpg?w=740",
     "images": [
-      "/11/departamento1.webp",
-      "/11/departamento2.webp",
-      "/11/departamento3.webp",
-      "/11/departamento4.webp",
-      "/11/departamento5.webp",
-      "/11/departamento6.webp"
+      "https://img.freepik.com/foto-gratis/sala-estar-nadie-ella_482257-55.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/comedor-comodo-estudio-o-habitacion-hotel_1262-12324.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/sala-estar-nadie-ella_482257-55.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/comedor-comodo-estudio-o-habitacion-hotel_1262-12324.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/sala-estar-nadie-ella_482257-55.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/comedor-comodo-estudio-o-habitacion-hotel_1262-12324.jpg?w=740"
     ],
     "located": {
       "province": "santiago del estero",
@@ -411,14 +411,14 @@
     "title": "CASA EN BARRIO CENTRO CON 4 HABITACIONES,",
     "type": "casa",
     "description": "Casa en barrio centro con 4 habitaciones ",
-    "thumbnail": "/12/casa1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/3d-renderizado-loft-sala-estar-escandinava-mesa-trabajo-estanteria_105762-2162.jpg?w=740",
     "images": [
-      "/12/casa1.webp",
-      "/12/casa2.webp",
-      "/12/casa3.webp",
-      "/12/casa4.webp",
-      "/12/casa5.webp",
-      "/12/casa6.webp"
+      "https://img.freepik.com/foto-gratis/3d-renderizado-loft-sala-estar-escandinava-mesa-trabajo-estanteria_105762-2162.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/diseno-interiores-marcos-fotos-sofa-azul_23-2149385429.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/cocina-comedor-apartamento-moderno_181624-61811.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/diseno-interiores-marcos-fotos-sofa-azul_23-2149385429.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/cocina-comedor-apartamento-moderno_181624-61811.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/cocina-comedor-apartamento-moderno_181624-61811.jpg?w=740"
     ],
     "located": {
       "province": "santiago del estero",
@@ -448,14 +448,14 @@
     "title": "CASA FAMILIAR EN BARRIO NUEVA CORDOBA",
     "type": "casa",
     "description": "Casa familiar en barrio centro",
-    "thumbnail": "/13/casa1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/modelo-casa-tridimensional_23-2151003970.jpg?w=826",
     "images": [
-      "/13/casa1.webp",
-      "/13/casa2.webp",
-      "/13/casa3.webp",
-      "/13/casa4.webp",
-      "/13/casa5.webp",
-      "/13/casa6.webp"
+      "https://img.freepik.com/foto-gratis/modelo-casa-tridimensional_23-2151003970.jpg?w=826",
+      "https://img.freepik.com/foto-gratis/sala-estar-nadie-ella_482257-55.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/hombre-negocios-hispano-mediana-edad_23-2151020285.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/diseno-interiores-habitaciones_23-2148899435.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/sala-estar-nadie-ella_482257-55.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/diseno-interiores-habitaciones_23-2148899435.jpg?w=740"
     ],
     "located": {
       "province": "cordoba",
@@ -485,14 +485,14 @@
     "title": "CASA EN BARRIO ALBERDI",
     "type": "casa",
     "description": "Casa en barrio alberdi",
-    "thumbnail": "/14/casa1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/antigua-casa-blanca-jardin_1150-12900.jpg?w=740",
     "images": [
-      "/14/casa1.webp",
-      "/14/casa2.webp",
-      "/14/casa3.webp",
-      "/14/casa4.webp",
-      "/14/casa5.webp",
-      "/14/casa6.webp"
+      "https://img.freepik.com/foto-gratis/antigua-casa-blanca-jardin_1150-12900.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/elegante-sala-estar-escandinava-muebles-sofa-menta-diseno-que-burlan-plantas-mapa-cartel-eleg_1258-152155.jpg?w=996",
+      "https://img.freepik.com/foto-gratis/sala-estar-nadie-ella_482257-55.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/elegante-sala-estar-escandinava-muebles-sofa-menta-diseno-que-burlan-plantas-mapa-cartel-eleg_1258-152155.jpg?w=996",
+      "https://img.freepik.com/foto-gratis/sala-estar-nadie-ella_482257-55.jpg?w=740",
+      "https://img.freepik.com/fotos-premium/interior-estilo-moderno-apartamento_105751-11959.jpg?w=740"
     ],
     "located": {
       "province": "cordoba",
@@ -522,14 +522,14 @@
     "title": "DEPARTAMENTO EN BARRIO ALBERDI",
     "type": "departamento",
     "description": "Departamento en barrio alberdi",
-    "thumbnail": "/15/departamento1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/edificio-apartamentos-ciudad-vegetacion_23-2148798603.jpg?w=740",
     "images": [
-      "/15/departamento1.webp",
-      "/15/departamento2.webp",
-      "/15/departamento3.webp",
-      "/15/departamento4.webp",
-      "/15/departamento5.webp",
-      "/15/departamento6.webp"
+      "https://img.freepik.com/foto-gratis/edificio-apartamentos-ciudad-vegetacion_23-2148798603.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/mesa-angulo-alto-disposicion-cubiertos-platos_23-2149293588.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/hermoso-diseno-interiores-muebles_23-2149610753.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/mesa-angulo-alto-disposicion-cubiertos-platos_23-2149293588.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/hermoso-diseno-interiores-muebles_23-2149610753.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/sala-estar-nadie-ella_482257-55.jpg?w=740"
     ],
     "located": {
       "province": "cordoba",
@@ -559,14 +559,14 @@
     "title": "DEPARTAMENTO EN NUEVA CORDOBA",
     "type": "departamento",
     "description": "Departamento en nueva cordoba",
-    "thumbnail": "/16/departamento1.webp",
+    "thumbnail": "https://img.freepik.com/foto-gratis/fondo-moderno-calle-tokio_23-2149394892.jpg?w=740",
     "images": [
-      "/16/departamento1.webp",
-      "/16/departamento2.webp",
-      "/16/departamento3.webp",
-      "/16/departamento4.webp",
-      "/16/departamento5.webp",
-      "/16/departamento6.webp"
+      "https://img.freepik.com/foto-gratis/fondo-moderno-calle-tokio_23-2149394892.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/sala-estar-apartamento_1150-11123.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/comedor-comodo-estudio-o-habitacion-hotel_1262-12324.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/sala-estar-apartamento_1150-11123.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/comedor-comodo-estudio-o-habitacion-hotel_1262-12324.jpg?w=740",
+      "https://img.freepik.com/foto-gratis/sala-estar-apartamento_1150-11123.jpg?w=740"
     ],
     "located": {
       "province": "cordoba",
